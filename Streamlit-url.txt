@@ -1,1 +1,1 @@
-https://arham-altaf-aqi-predictor-karachi.streamlit.app/
+https://aqib-ali-aqi-predictor-karachi.streamlit.app/
